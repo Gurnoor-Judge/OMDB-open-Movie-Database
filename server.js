@@ -585,6 +585,6 @@ MongoClient.connect("mongodb+srv://new-user:qwertyuiop@cluster0.n2uo2.mongodb.ne
   db = client.db('project');
 
   // Start server once Mongo is initialized
-  app.listen(3000);
+  app.listen( process.env.PORT || 3000);
   console.log("Listening on port 3000");
 });
