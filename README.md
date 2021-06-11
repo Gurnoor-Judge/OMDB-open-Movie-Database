@@ -11,4 +11,5 @@ Open Command line and run the following commands:
 1) "npm install"
 2) "node database-initializer.js"
 3) “node server.js”
+
 Run the URL localhost::3000 on your browser and it will launch the Movie Database Application.
