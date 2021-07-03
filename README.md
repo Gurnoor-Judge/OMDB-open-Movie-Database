@@ -1,9 +1,5 @@
 # OMDB-open-Movie-Database
 
-To view the website, please click on the link given below:
-
-https://open-movie-database.herokuapp.com/
-
 To run the program: 
 You should have MongoDb and Node installed on your system.
 	
